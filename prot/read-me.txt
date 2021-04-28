@@ -1,0 +1,20 @@
+アセット名 / 変更日 / 変更かけた人
+
+StarterContent : 04 / 27 15:02 : tanaka
+OfficeScene    : 04 / 27 15:02 : tanaka
+
+
+
+~~~~~~~~~~~~~導入方法~~~~~~~~~~~~~~~
+
+
+TestUE4----prot----Content-----Resourceとなるようにファイル階層作る
+
+
+
+~~~~~~~~~~~~アセットの場所(仮)~~~~~~~~~~
+
+https://14.gigafile.nu/0505-l29f7b60ffd982f2a75151567aa63f70a
+
+
+どっかのドライブに移行予定・・・OneDriveだったらTemasからいけるしよくね・・・？
